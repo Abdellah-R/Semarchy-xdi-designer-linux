@@ -24,7 +24,7 @@ Ce répository sert à vous guider pour installer le client semarchy-xdi-designe
 
 La racine du dossier contenant le designer devrait ressembler à ceci:
 
-![](screenshots/racine)
+![](screenshots/racine.png)
 
 ### Etape 2 - Exécuter xdi Designer
 
@@ -38,7 +38,7 @@ La racine du dossier contenant le designer devrait ressembler à ceci:
 
 3 - Lancez le xdi designer avec l'exécutable semarchy-xdi-designer-linux et choisissez votre Workspace pour démarrer votre projet.
 
-![](screenshots/fenêtre)
+![](screenshots/fenêtre.png)
 
 
 
