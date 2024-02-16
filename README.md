@@ -20,7 +20,7 @@ Ce répository sert à vous guider pour installer le client semarchy-xdi-designe
 
 2 -  Télécharger le [**xdi runtime**](https://www.semarchy.com/downloads/products/2024.1/semarchy-xdi-runtime-2024.1.1-20240117_105703.zip), décompressez-le puis renommer le dossier en "runtime" et placez-le à la racine du dossier contenant le designer
 
-3 - Télécharger le [**programme java**](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_linux-x64_bin.tar.gz), décompressez-le puis renommer le dossier en "jre" et placez-le à la racine du dossier contenant le designer
+3 - Télécharger le [**programme java**](https://download.java.net/java/GA/jdk21.0.2/f2283984656d49d69e91c558476027ac/13/GPL/openjdk-21.0.2_linux-x64_bin.tar.gz), décompressez-le puis renommer le dossier en "jre" et placez-le à la racine du dossier contenant le designer
 
 La racine du dossier contenant le designer devrait ressembler à ceci:
 
